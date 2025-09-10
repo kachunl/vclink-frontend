@@ -1,4 +1,4 @@
-import { FormFieldType, AuthFormProps } from "@/types/forms"
+import { FormFieldType, AuthFormProps } from "@/types/index"
 
 export default function AuthForm({
     title,
